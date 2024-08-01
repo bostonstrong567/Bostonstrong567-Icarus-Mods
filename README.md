@@ -23,11 +23,14 @@ For manual installation, you do the following:
 For automatic installation, you do the following:
 
 1. Open [Icarus Mod Manager](https://projectdaedalus.app/tools).
-1. Download only the `.EXMODZ` from [The Mods Directory](Mods).
-2. Click `Import EXMODZ File`.
-.![Tutorial Button](Images/Import.png)
+2. Download only the `.EXMODZ` from [The Mods Directory](Mods).
+3. Click `Import EXMODZ File`.
+
+    ![Tutorial Button](Images/Import.png)
+
 4. Select the `.EXMODZ` you downloaded.
 5. Launch the game and enjoy.
+
 
 ## Mod Descriptions
 1. The [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots_P.pak) Mod Increasesthe number of available drop ship slots to `25`, Which allows you to bring more resources, tools, and equipment to the the mission.
