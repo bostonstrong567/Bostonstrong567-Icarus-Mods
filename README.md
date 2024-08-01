@@ -14,16 +14,22 @@ If you don't have [Icarus Mod Manager](https://projectdaedalus.app/tools), I rec
 For manual installation, you do the following:
 
 1. Download either the .pak file or .EXMODZ from [The Mods Directory](Mods).
-2. Extract the contents of the zip file to your Icarus game directory.
+2. Extract the contents of the zip file to your Icarus game directory such as [7zip](https://www.7-zip.org).
 3. Move the `.pak` or the `.EXMODZ` file to the `\Icarus\Icarus\Content\Paks\mods` directory.
 4. Launch the game and enjoy.
 
-### Manual Installation
+### Automatic Installation
 
-![Tutorial Button](Images/Import.png)
+For automatic installation, you do the following:
 
-### Description
-The "More DropShip Slots!" mod enhances your Icarus gameplay by increasing the number of available drop ship slots. This allows you to bring more resources, tools, and equipment to the surface, significantly improving your efficiency and survival chances.
+1. Open [Icarus Mod Manager](https://projectdaedalus.app/tools).
+1. Download only the .EXMODZ from [The Mods Directory](Mods).
+2. Click Import EXMODZ File. ![Tutorial Button](Images/Import.png)
+3. Select the .EXMODZ you downloaded.
+4. Launch the game and enjoy.
+
+## Mod Descriptions
+The `[More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots_P.pak)` Mod Increasesthe number of available drop ship slots to `25`, Which allows you to bring more resources, tools, and equipment to the the mission.
 
 ### Features
 - Increases the number of drop ship slots from the default to a higher limit.
