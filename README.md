@@ -2,8 +2,8 @@
 
 Welcome to the official repository for BostonStrong567's Icarus mods! This repository includes two exciting mods:
 
-1. **More DropShip Slots!**
-2. **Eye Colors Expanded!**
+1. [More DropShip Slots!](Icarus/Icarus/Content/Paks/mods/More%20Slots_P.pak)
+2. [Eye Colors Expanded!](Icarus/Icarus/Content/Paks/mods/Eye%20Colors%20Expanded!_P.pak)
 
 ## More DropShip Slots!
 
@@ -13,12 +13,12 @@ The "More DropShip Slots!" mod enhances your Icarus gameplay by increasing the n
 ### Features
 - Increases the number of drop ship slots from the default to a higher limit.
 - Compatible with all game updates and patches.
-- Easy installation and user-friendly interface.
 
 ### Installation
-1. Download the mod files from the [Releases](#) section.
+1. Download the mod files from the [Releases](Icarus/Icarus/Content/Paks/mods/More%20Slots_P.pak) section.
 2. Extract the contents of the zip file to your Icarus game directory.
-3. Launch the game and enjoy the increased drop ship slots!
+3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory.
+4. Launch the game and enjoy the increased drop ship slots!
 
 ### Usage
 - Start a new game or load an existing save.
@@ -35,9 +35,10 @@ The "Eye Colors Expanded!" mod introduces a wider range of eye colors for your c
 - Easy installation and seamless integration with the character creation menu.
 
 ### Installation
-1. Download the mod files from the [Releases](#) section.
+1. Download the mod files from the [Releases](Icarus/Icarus/Content/Paks/mods/Eye%20Colors%20Expanded!_P.pak) section.
 2. Extract the contents of the zip file to your Icarus game directory.
-3. Launch the game and enjoy the new eye color options in the character creation menu!
+3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory.
+4. Launch the game and enjoy the new eye color options in the character creation menu!
 
 ### Usage
 - Access the character creation or customization menu.
