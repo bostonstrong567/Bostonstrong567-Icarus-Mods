@@ -14,7 +14,7 @@ Welcome to my repository for my Icarus mods!
 For automatic installation, do the following:
 
 1. Open [Icarus Mod Manager](https://projectdaedalus.app/tools).
-2. Download only the `.EXMODZ` from [The Mods Directory](Mods).
+2. Download only the `.EXMODZ` from [The Selected Mod](Mods).
 3. Click `Import EXMODZ File`.
 
     ![Tutorial Button](Images/Import.png)
@@ -33,7 +33,7 @@ If you don't own [Icarus Mod Manager](https://projectdaedalus.app/tools), I reco
 
 For manual installation, do the following:
 
-1. Download only the `.pak` from [The Mods Directory](Mods).
+1. Download only the `.pak` from [The Selected Mod](Mods).
 2. Extract the contents of the zip file to your Icarus game directory using a tool such as [7zip](https://www.7-zip.org).
 3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory. If the `mods` folder doesn't exist, create one inside `\Icarus\Icarus\Content\Paks\` called `mods`.
 4. Launch the game and enjoy.
