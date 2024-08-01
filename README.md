@@ -1,0 +1,62 @@
+# BostonStrong567's Icarus Mods
+
+Welcome to the official repository for BostonStrong567's Icarus mods! This repository includes two exciting mods:
+
+1. **More DropShip Slots!**
+2. **Eye Colors Expanded!**
+
+## More DropShip Slots!
+
+### Description
+The "More DropShip Slots!" mod enhances your Icarus gameplay by increasing the number of available drop ship slots. This allows you to bring more resources, tools, and equipment to the surface, significantly improving your efficiency and survival chances.
+
+### Features
+- Increases the number of drop ship slots from the default to a higher limit.
+- Compatible with all game updates and patches.
+- Easy installation and user-friendly interface.
+
+### Installation
+1. Download the mod files from the [Releases](#) section.
+2. Extract the contents of the zip file to your Icarus game directory.
+3. Launch the game and enjoy the increased drop ship slots!
+
+### Usage
+- Start a new game or load an existing save.
+- You'll see additional drop ship slots available during the drop preparation phase.
+
+## Eye Colors Expanded!
+
+### Description
+The "Eye Colors Expanded!" mod introduces a wider range of eye colors for your character customization in Icarus. Express yourself with unique and vibrant eye colors that stand out.
+
+### Features
+- Adds over 20 new eye colors to choose from.
+- Compatible with all game updates and patches.
+- Easy installation and seamless integration with the character creation menu.
+
+### Installation
+1. Download the mod files from the [Releases](#) section.
+2. Extract the contents of the zip file to your Icarus game directory.
+3. Launch the game and enjoy the new eye color options in the character creation menu!
+
+### Usage
+- Access the character creation or customization menu.
+- Select from the newly added eye colors to personalize your character.
+
+## Support
+If you encounter any issues or have suggestions for future updates, please open an issue in the [Issues](#) section or contact me directly.
+
+## Contributions
+Contributions are welcome! Feel free to fork this repository and submit pull requests with your improvements or new features.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+Thank you for using my mods! Your support and feedback are greatly appreciated.
+
+---
+
+Happy modding!
+
+BostonStrong567
