@@ -40,7 +40,7 @@ For manual installation, do the following:
 
 ## Support
 
-If you encounter any issues or have suggestions for future updates, please open an issue in the [Issues](#) section or contact me directly. My [Discord Profile](https://discordapp.com/users/267368849228169217) is bostonstrong567. Join the Icarus Modding Community [Discord! [Linkarus]](https://discord.gg/linkarus-icarus-modding-936621749733302292).
+If you encounter any issues or have suggestions for future updates, please open an issue in the [Issues](#) section or contact me directly. [Discord Profile](https://discordapp.com/users/267368849228169217). Join the Icarus Modding Community [Discord! [Linkarus]](https://discord.gg/linkarus-icarus-modding-936621749733302292).
 
 ## Contributions
 
