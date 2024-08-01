@@ -4,8 +4,8 @@ Welcome to my repository for my Icarus mods!
 
 ## Mods
 
-1. [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots)
-2. [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!)
+1. ![More DropShip Slots](Images/DropShipSlots.png) [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots)
+2. ![Eye Colors Expanded](Images/EyeColorsExpanded.png) [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!)
 
 ## Installations
 
