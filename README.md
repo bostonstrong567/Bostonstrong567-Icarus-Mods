@@ -29,9 +29,8 @@ If you don't own [Icarus Mod Manager](https://projectdaedalus.app/tools), I reco
 For manual installation, do the following:
 
 1. Download only the `.pak` from [the selected mod](Mods).
-2. Extract the contents of the zip file to your Icarus game directory using a tool such as [7zip](https://www.7-zip.org).
-3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory. If the `mods` folder doesn't exist, create one inside `\Icarus\Icarus\Content\Paks\` called `mods`.
-4. Launch the game and enjoy.
+2. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory. If the `mods` folder doesn't exist, create one inside `\Icarus\Icarus\Content\Paks\` called `mods`.
+3. Launch the game and enjoy.
 
 ## Mod Descriptions
 
