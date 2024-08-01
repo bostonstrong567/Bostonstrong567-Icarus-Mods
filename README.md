@@ -1,6 +1,8 @@
 # Bostonstrong567's Icarus Mods
 
-Welcome to my repository for my Icarus mods! Mods:
+Welcome to my repository for my Icarus mods!
+
+## Modss
 
 1. [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots)
 2. [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!)
