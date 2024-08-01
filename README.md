@@ -1,6 +1,6 @@
-# BostonStrong567's Icarus Mods
+# Bostonstrong567's Icarus Mods
 
-Welcome to the official repository for BostonStrong567's Icarus mods! This repository includes two exciting mods:
+Welcome to the official repository for Bostonstrong567's Icarus mods! This repository includes two exciting mods:
 
 1. [More DropShip Slots!](Mods/More%20Slots_P.pak)
 2. [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!_P.pak)
