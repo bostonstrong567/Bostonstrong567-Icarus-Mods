@@ -12,7 +12,7 @@ If you have Icarus
 3. Move the `.pak` or the `.EXMODZ` file to the `\Icarus\Icarus\Content\Paks\mods` directory.
 4. Launch the game and enjoy
 
-![Tutorial Button](images/Import.png)
+![Tutorial Button](Images/Import.png)
 
 ### Description
 The "More DropShip Slots!" mod enhances your Icarus gameplay by increasing the number of available drop ship slots. This allows you to bring more resources, tools, and equipment to the surface, significantly improving your efficiency and survival chances.
