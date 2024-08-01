@@ -33,8 +33,8 @@ For automatic installation, do the following:
 
 ## Mod Descriptions
 
-1. The [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots_P.pak) mod increases the number of available drop ship slots to 25, allowing you to bring more resources, tools, and equipment to the mission.
-2. The [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!/Eye%20Colors%20Expanded!_P.pak) mod introduces a wider range of eye colors for your character customization in Icarus.
+1. The [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots) mod increases the number of available drop ship slots to 25, allowing you to bring more resources, tools, and equipment to the mission.
+2. The [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!) mod introduces a wider range of eye colors for your character customization in Icarus.
 
 ## Support
 
