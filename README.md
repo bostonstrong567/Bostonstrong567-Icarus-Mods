@@ -4,7 +4,7 @@ Welcome to the official repository for Bostonstrong567's Icarus mods! This repos
 
 1. [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots_P.pak)
 2. [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!_P.pak)
-
+## Installations
 ### Manual Installation
 If you have Icarus 
 1. Download either the .pak file or .EXMODZ from [The Mods Directory](Mods)
