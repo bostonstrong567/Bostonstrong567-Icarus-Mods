@@ -25,7 +25,7 @@ For automatic installation, you do the following:
 1. Open [Icarus Mod Manager](https://projectdaedalus.app/tools).
 1. Download only the `.EXMODZ` from [The Mods Directory](Mods).
 2. Click `Import EXMODZ File`.
-![Tutorial Button](Images/Import.png)
+.![Tutorial Button](Images/Import.png)
 4. Select the `.EXMODZ` you downloaded.
 5. Launch the game and enjoy.
 
