@@ -11,7 +11,7 @@ Welcome to my repository for my Icarus mods!
 
 ### Manual Installation
 
-If you don't have [Icarus Mod Manager](https://projectdaedalus.app/tools), I recommend you download it.
+If you don't own [Icarus Mod Manager](https://projectdaedalus.app/tools), I recommend you download it.
 
 For manual installation, do the following:
 
