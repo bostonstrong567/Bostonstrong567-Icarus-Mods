@@ -1,20 +1,30 @@
 {
-    "name": "Bostonstrong567's Icarus Mods",
-    "author": "Bostonstrong567",
-    "description": "A collection of mods for Icarus, including More DropShip Slots and Eye Colors Expanded.",
-    "version": "1.0.0",
-    "mods": [
-        {
-            "name": "More DropShip Slots",
-            "file": "Mods/More Slots/More Slots_P.pak",
-            "description": "Increases the number of drop ship slots available.",
-            "version": "1.0.0"
-        },
-        {
-            "name": "Eye Colors Expanded",
-            "file": "Mods/Eye Colors Expanded/Eye Colors Expanded!_P.pak",
-            "description": "Adds over 20 new eye colors for character customization.",
-            "version": "1.0.0"
-        }
-    ]
+  "mods": [
+    {
+      "name": "More DropShip Slots",
+      "author": "Bostonstrong567",
+      "version": "1.0.0",
+      "compatibility": "All",
+      "description": "increases the number of available drop ship slots to 25, allowing you to bring more resources, tools, and equipment to the mission.",
+      "imageURL": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/blob/main/Images/DropShipSlots.png",
+      "readmeURL": "https://raw.githubusercontent.com/bostonstrong567/Bostonstrong567-Icarus-Mods/main/README.md",
+      "files": {
+        "exmodz": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/raw/main/Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots.EXMODZ",
+        "pak": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/blob/main/Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots_P.pak"
+      }
+    },
+    {
+      "name": "Eye Colors Expanded!",
+      "author": "Bostonstrong567",
+      "version": "1.0.0",
+      "compatibility": "All",
+      "description": "introduces a wider range of eye colors for your character customization in Icarus.",
+      "imageURL": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/blob/main/Images/EyeColorsExpanded.png",
+      "readmeURL": "https://raw.githubusercontent.com/bostonstrong567/Bostonstrong567-Icarus-Mods/main/README.md",
+      "files": {
+        "exmodz": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/raw/main/Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots.EXMODZ",
+        "pak": "https://github.com/bostonstrong567/Bostonstrong567-Icarus-Mods/blob/main/Mods/More%20Drop%20Ship%20Slots/More%20Drop%20Ship%20Slots_P.pak"
+      }
+    }
+  ]
 }
