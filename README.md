@@ -9,17 +9,6 @@ Welcome to my repository for my Icarus mods!
 
 ## Installations
 
-### Manual Installation
-
-If you don't own [Icarus Mod Manager](https://projectdaedalus.app/tools), I recommend you download it.
-
-For manual installation, do the following:
-
-1. Download only the `.pak` from [The Mods Directory](Mods).
-2. Extract the contents of the zip file to your Icarus game directory using a tool such as [7zip](https://www.7-zip.org).
-3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory. If the `mods` folder doesn't exist, create one inside `\Icarus\Icarus\Content\Paks\` called `mods`.
-4. Launch the game and enjoy.
-
 ### Automatic Installation
 
 For automatic installation, do the following:
@@ -37,6 +26,17 @@ For automatic installation, do the following:
 
 1. The [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots) mod increases the number of available drop ship slots to 25, allowing you to bring more resources, tools, and equipment to the mission.
 2. The [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!) mod introduces a wider range of eye colors for your character customization in Icarus.
+
+### Manual Installation
+
+If you don't own [Icarus Mod Manager](https://projectdaedalus.app/tools), I recommend you download it.
+
+For manual installation, do the following:
+
+1. Download only the `.pak` from [The Mods Directory](Mods).
+2. Extract the contents of the zip file to your Icarus game directory using a tool such as [7zip](https://www.7-zip.org).
+3. Move the `.pak` file to the `\Icarus\Icarus\Content\Paks\mods` directory. If the `mods` folder doesn't exist, create one inside `\Icarus\Icarus\Content\Paks\` called `mods`.
+4. Launch the game and enjoy.
 
 ## Support
 
