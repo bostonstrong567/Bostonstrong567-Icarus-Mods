@@ -5,7 +5,14 @@ Welcome to the official repository for Bostonstrong567's Icarus mods! This repos
 1. [More DropShip Slots!](Mods/More%20Drop%20Ship%20Slots_P.pak)
 2. [Eye Colors Expanded!](Mods/Eye%20Colors%20Expanded!_P.pak)
 
-## More DropShip Slots!
+### Manual Installation
+If you have Icarus 
+1. Download either the .pak file or .EXMODZ from [The Mods Directory](Mods)
+2. Extract the contents of the zip file to your Icarus game directory.
+3. Move the `.pak` or the `.EXMODZ` file to the `\Icarus\Icarus\Content\Paks\mods` directory.
+4. Launch the game and enjoy
+
+![Tutorial Button](images/your_image.png)
 
 ### Description
 The "More DropShip Slots!" mod enhances your Icarus gameplay by increasing the number of available drop ship slots. This allows you to bring more resources, tools, and equipment to the surface, significantly improving your efficiency and survival chances.
